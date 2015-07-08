@@ -1,7 +1,8 @@
-<xml>
-	<Response>
-		<Dial>
-			312-835-1121
-		</Dial>
-	</Response>
-</xml>
+<Response>
+	<say>
+		Welcome to Chicago Counseling
+	</say>
+	<Dial>
+		312-835-1121
+	</Dial>
+</Response>
