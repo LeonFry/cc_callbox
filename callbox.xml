@@ -1,8 +1,10 @@
-<Response>
+444-555
+
+<response>
 	<say>
 		Welcome to Chicago Counseling
 	</say>
-	<Dial>
+	<dial>
 		312-835-1121
-	</Dial>
-</Response>
+	</dial>
+</response>
