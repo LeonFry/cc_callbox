@@ -1,10 +1,9 @@
-444-555
-
-<response>
-	<say>
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<say voice="woman">
 		Welcome to Chicago Counseling
 	</say>
-	<dial>
+	<Dial>
 		312-835-1121
-	</dial>
-</response>
+	</Dial>
+</Response>
